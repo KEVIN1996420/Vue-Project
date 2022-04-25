@@ -28,7 +28,6 @@
             sold,
             category,
             printtime,
-            addtocart,
           },
         }"
       >
